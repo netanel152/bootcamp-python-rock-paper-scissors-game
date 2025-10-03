@@ -21,7 +21,7 @@ To play the game, follow these steps:
 
 2.  **Clone the repository** (or download the code):
     ```bash
-    git clone [https://github.com/netanel152/bootcamp-python-rock-paper-scissors-game.git](https://github.com/netanel152/bootcamp-python-rock-paper-scissors-game.git)
+    git clone https://github.com/netanel152/bootcamp-python-rock-paper-scissors-game.git
     ```
 
 3.  **Navigate to the project directory**:
